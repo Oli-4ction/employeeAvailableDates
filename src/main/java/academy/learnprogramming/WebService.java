@@ -1,6 +1,6 @@
-package academy.learnprogramming;
+package employee.Availability;
 
-import academy.learnprogramming.model.NASAMedia;
+import employee.Availability.model.NASAMedia;
 
 import java.io.IOException;
 import java.net.URI;
